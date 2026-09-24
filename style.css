@@ -7,3 +7,5 @@
 .character-info blockquote{font-family:"Microsoft YaHei","微软雅黑",sans-serif;color:var(--muted)}.dialogue #speaker[hidden]{display:none}footer{justify-content:center}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 
+
+.ending-links{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:16px 20px}.ending-links .button{margin-top:0;justify-content:center}.button-outline{background:transparent;color:var(--ink)}.button-outline:hover{background:var(--ink);color:var(--yellow)}.ending-reread{flex-basis:100%;width:fit-content;font-size:13px;text-decoration:underline;text-underline-offset:5px;margin-top:8px}
